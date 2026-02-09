@@ -2,6 +2,8 @@
 
 Программа-бот для автоматизации перепродажи товаров на FunPay.com. Работает в фоновом режиме, выполняет парсинг товаров, автоматическое размещение с наценкой и отслеживание продаж.
 Telegram - @BIKIShop_bot 
+
+
 <img width="571" height="743" alt="image" src="https://github.com/user-attachments/assets/9515d6eb-2c4e-4714-bda8-d5a76b69296c" />
 
 
